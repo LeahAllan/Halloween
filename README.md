@@ -1,2 +1,0 @@
-# Halloween
-Halloween related projects
